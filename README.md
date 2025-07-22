@@ -43,3 +43,13 @@ Add the following files from this repository to your Firestorm `fonts` directory
 Next, start Firestorm and select `IBM Plex` from the UI font settings.
 
 ![Preference](img/font-config.webp)
+
+## See Also
+
+- [Firestorm Noto Sans Full](https://github.com/logue/firestorm-noto-sans-cjk)
+
+## License
+
+&copy; 2023,2025 by Logue, Licensed under the GNU LESSER GENERAL PUBLIC LICENSE.
+
+- [IBM Plex font License](./IBMPlexSans-LICENSE.txt)
